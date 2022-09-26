@@ -1,660 +1,5 @@
 var markersDB={
-  "Chests__empty_d341_b546": {
-    "created": false,
-    "name": "Chests (empty)",
-    "raw": []
-  },
-  "Chests__empty_d341_c3ba": {
-    "created": false,
-    "name": "Chests (empty)",
-    "raw": [
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": 62,
-        "y": 67,
-        "z": 157
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": 127,
-        "y": 47,
-        "z": 127
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": 123,
-        "y": 47,
-        "z": 128
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": 131,
-        "y": -35,
-        "z": 156
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": 132,
-        "y": -35,
-        "z": 150
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": 150,
-        "y": 74,
-        "z": 178
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -855,
-        "y": -29,
-        "z": -27
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -857,
-        "y": -29,
-        "z": -28
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -720,
-        "y": 25,
-        "z": -111
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -483,
-        "y": -25,
-        "z": -106
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -52,
-        "y": -27,
-        "z": -300
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -10,
-        "y": -9,
-        "z": -291
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -8,
-        "y": -9,
-        "z": -288
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -8,
-        "y": -13,
-        "z": -161
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -2,
-        "y": -13,
-        "z": -159
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -12,
-        "y": -3,
-        "z": -51
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -1005,
-        "y": 17,
-        "z": 399
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -1005,
-        "y": 17,
-        "z": 400
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -991,
-        "y": -22,
-        "z": 76
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -989,
-        "y": -22,
-        "z": 76
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -989,
-        "y": -26,
-        "z": 420
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -954,
-        "y": -51,
-        "z": 397
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -953,
-        "y": -51,
-        "z": 400
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -881,
-        "y": 78,
-        "z": 421
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -880,
-        "y": 78,
-        "z": 422
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -847,
-        "y": -44,
-        "z": 87
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -843,
-        "y": -44,
-        "z": 87
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -836,
-        "y": -26,
-        "z": 374
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -830,
-        "y": -26,
-        "z": 370
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -791,
-        "y": -3,
-        "z": 320
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -799,
-        "y": 70,
-        "z": 334
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -797,
-        "y": 70,
-        "z": 340
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -753,
-        "y": 52,
-        "z": 449
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -748,
-        "y": 52,
-        "z": 444
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -710,
-        "y": 29,
-        "z": 245
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -706,
-        "y": 29,
-        "z": 246
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -706,
-        "y": 29,
-        "z": 245
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -702,
-        "y": -33,
-        "z": 264
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -702,
-        "y": -33,
-        "z": 265
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -686,
-        "y": 25,
-        "z": 247
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -632,
-        "y": 62,
-        "z": 87
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -631,
-        "y": 62,
-        "z": 87
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -630,
-        "y": -37,
-        "z": 89
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -629,
-        "y": 60,
-        "z": 449
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -621,
-        "y": 2,
-        "z": 201
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -617,
-        "y": 2,
-        "z": 202
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -613,
-        "y": 58,
-        "z": 447
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -623,
-        "y": 58,
-        "z": 448
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -588,
-        "y": -10,
-        "z": 249
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -586,
-        "y": -10,
-        "z": 246
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -577,
-        "y": -26,
-        "z": 251
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -583,
-        "y": -33,
-        "z": 284
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -578,
-        "y": 11,
-        "z": 370
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -581,
-        "y": 11,
-        "z": 370
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -583,
-        "y": 61,
-        "z": 457
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -565,
-        "y": -4,
-        "z": 81
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -569,
-        "y": -4,
-        "z": 82
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -563,
-        "y": -48,
-        "z": 238
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -553,
-        "y": -26,
-        "z": 355
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -555,
-        "y": 40,
-        "z": 506
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -555,
-        "y": 40,
-        "z": 507
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -529,
-        "y": -8,
-        "z": 6
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -540,
-        "y": -18,
-        "z": 261
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -539,
-        "y": -18,
-        "z": 261
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -525,
-        "y": -8,
-        "z": 7
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -498,
-        "y": 72,
-        "z": 244
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -504,
-        "y": -11,
-        "z": 290
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -503,
-        "y": -11,
-        "z": 290
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -151,
-        "y": 58,
-        "z": 137
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -121,
-        "y": -7,
-        "z": 115
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -121,
-        "y": -7,
-        "z": 116
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -121,
-        "y": -10,
-        "z": 155
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -120,
-        "y": -10,
-        "z": 154
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -102,
-        "y": 20,
-        "z": 139
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -101,
-        "y": 20,
-        "z": 142
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": -1,
-        "y": 24,
-        "z": 176
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": 12,
-        "y": -2,
-        "z": -394
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": 12,
-        "y": 24,
-        "z": -361
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": 9,
-        "y": 24,
-        "z": -365
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": 19,
-        "y": -11,
-        "z": -222
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": 46,
-        "y": -50,
-        "z": -402
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": 43,
-        "y": -50,
-        "z": -406
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": 77,
-        "y": -4,
-        "z": -189
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": 77,
-        "y": -4,
-        "z": -191
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": 124,
-        "y": 50,
-        "z": -237
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": 229,
-        "y": 3,
-        "z": -198
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": 225,
-        "y": 3,
-        "z": -203
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": 262,
-        "y": 3,
-        "z": -185
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": 266,
-        "y": 3,
-        "z": -182
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": 313,
-        "y": 5,
-        "z": -231
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": 315,
-        "y": 3,
-        "z": -239
-      },
-      {
-        "hovertext": "Empty chest.",
-        "text": "Empty chest.",
-        "x": 316,
-        "y": 5,
-        "z": -227
-      }
-    ]
-  },
-  "Chests__empty_d341_c673": {
+  "Chests__empty_a341_2a1d": {
     "created": false,
     "name": "Chests (empty)",
     "raw": [
@@ -2613,25 +1958,676 @@ var markersDB={
       }
     ]
   },
-  "Chests__with_contents_2cb7_b546": {
+  "Chests__empty_a341_aa9e": {
     "created": false,
-    "name": "Chests (with contents)",
-    "raw": []
-  },
-  "Chests__with_contents_2cb7_c3ba": {
-    "created": false,
-    "name": "Chests (with contents)",
+    "name": "Chests (empty)",
     "raw": [
       {
-        "hovertext": "Chest with 23 items. \n           <p>Slot 0: minecraft:tuff - 1</p><p>Slot 1: minecraft:cobbled_deepslate - 17</p><p>Slot 2: minecraft:diorite - 64</p><p>Slot 3: minecraft:dirt - 39</p><p>Slot 4: minecraft:oak_planks - 32</p><p>Slot 5: minecraft:andesite - 64</p><p>Slot 6: minecraft:diorite - 35</p><p>Slot 7: minecraft:granite - 64</p><p>Slot 8: minecraft:andesite - 64</p><p>Slot 9: minecraft:granite - 63</p><p>Slot 10: minecraft:andesite - 13</p><p>Slot 11: minecraft:gravel - 7</p><p>Slot 12: minecraft:gunpowder - 64</p><p>Slot 13: minecraft:gunpowder - 64</p><p>Slot 14: minecraft:stone - 2</p><p>Slot 15: minecraft:gunpowder - 64</p><p>Slot 16: minecraft:gunpowder - 64</p><p>Slot 17: minecraft:gunpowder - 64</p><p>Slot 18: minecraft:gunpowder - 64</p><p>Slot 19: minecraft:gunpowder - 64</p><p>Slot 20: minecraft:gunpowder - 64</p><p>Slot 21: minecraft:cobblestone - 64</p><p>Slot 22: minecraft:cobblestone - 61</p>\n            ",
-        "text": "Chest with 23 items. \n           <p>Slot 0: minecraft:tuff - 1</p><p>Slot 1: minecraft:cobbled_deepslate - 17</p><p>Slot 2: minecraft:diorite - 64</p><p>Slot 3: minecraft:dirt - 39</p><p>Slot 4: minecraft:oak_planks - 32</p><p>Slot 5: minecraft:andesite - 64</p><p>Slot 6: minecraft:diorite - 35</p><p>Slot 7: minecraft:granite - 64</p><p>Slot 8: minecraft:andesite - 64</p><p>Slot 9: minecraft:granite - 63</p><p>Slot 10: minecraft:andesite - 13</p><p>Slot 11: minecraft:gravel - 7</p><p>Slot 12: minecraft:gunpowder - 64</p><p>Slot 13: minecraft:gunpowder - 64</p><p>Slot 14: minecraft:stone - 2</p><p>Slot 15: minecraft:gunpowder - 64</p><p>Slot 16: minecraft:gunpowder - 64</p><p>Slot 17: minecraft:gunpowder - 64</p><p>Slot 18: minecraft:gunpowder - 64</p><p>Slot 19: minecraft:gunpowder - 64</p><p>Slot 20: minecraft:gunpowder - 64</p><p>Slot 21: minecraft:cobblestone - 64</p><p>Slot 22: minecraft:cobblestone - 61</p>\n            ",
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": 62,
+        "y": 67,
+        "z": 157
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": 127,
+        "y": 47,
+        "z": 127
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": 123,
+        "y": 47,
+        "z": 128
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": 131,
+        "y": -35,
+        "z": 156
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": 132,
+        "y": -35,
+        "z": 150
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": 150,
+        "y": 74,
+        "z": 178
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -855,
+        "y": -29,
+        "z": -27
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -857,
+        "y": -29,
+        "z": -28
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -720,
+        "y": 25,
+        "z": -111
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -483,
+        "y": -25,
+        "z": -106
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -52,
+        "y": -27,
+        "z": -300
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -10,
+        "y": -9,
+        "z": -291
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -8,
+        "y": -9,
+        "z": -288
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -8,
+        "y": -13,
+        "z": -161
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -2,
+        "y": -13,
+        "z": -159
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -12,
+        "y": -3,
+        "z": -51
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -1005,
+        "y": 17,
+        "z": 399
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -1005,
+        "y": 17,
+        "z": 400
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -991,
+        "y": -22,
+        "z": 76
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -989,
+        "y": -22,
+        "z": 76
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -989,
+        "y": -26,
+        "z": 420
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -954,
+        "y": -51,
+        "z": 397
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -953,
+        "y": -51,
+        "z": 400
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -881,
+        "y": 78,
+        "z": 421
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -880,
+        "y": 78,
+        "z": 422
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -847,
+        "y": -44,
+        "z": 87
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -843,
+        "y": -44,
+        "z": 87
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -836,
+        "y": -26,
+        "z": 374
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -830,
+        "y": -26,
+        "z": 370
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -791,
+        "y": -3,
+        "z": 320
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -799,
+        "y": 70,
+        "z": 334
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -797,
+        "y": 70,
+        "z": 340
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -753,
+        "y": 52,
+        "z": 449
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -748,
+        "y": 52,
+        "z": 444
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
         "x": -710,
+        "y": 30,
+        "z": 246
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -710,
+        "y": 30,
+        "z": 245
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -706,
         "y": 29,
         "z": 246
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -706,
+        "y": 29,
+        "z": 245
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -706,
+        "y": 30,
+        "z": 246
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -706,
+        "y": 30,
+        "z": 245
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -702,
+        "y": -33,
+        "z": 264
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -702,
+        "y": -33,
+        "z": 265
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -632,
+        "y": 62,
+        "z": 87
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -631,
+        "y": 62,
+        "z": 87
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -630,
+        "y": -37,
+        "z": 89
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -629,
+        "y": 60,
+        "z": 449
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -621,
+        "y": 2,
+        "z": 201
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -617,
+        "y": 2,
+        "z": 202
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -613,
+        "y": 58,
+        "z": 447
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -623,
+        "y": 58,
+        "z": 448
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -588,
+        "y": -10,
+        "z": 249
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -586,
+        "y": -10,
+        "z": 246
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -577,
+        "y": -26,
+        "z": 251
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -583,
+        "y": -33,
+        "z": 284
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -578,
+        "y": 11,
+        "z": 370
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -581,
+        "y": 11,
+        "z": 370
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -583,
+        "y": 61,
+        "z": 457
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -565,
+        "y": -4,
+        "z": 81
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -569,
+        "y": -4,
+        "z": 82
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -563,
+        "y": -48,
+        "z": 238
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -553,
+        "y": -26,
+        "z": 355
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -555,
+        "y": 40,
+        "z": 506
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -555,
+        "y": 40,
+        "z": 507
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -529,
+        "y": -8,
+        "z": 6
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -540,
+        "y": -18,
+        "z": 261
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -539,
+        "y": -18,
+        "z": 261
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -525,
+        "y": -8,
+        "z": 7
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -498,
+        "y": 72,
+        "z": 244
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -504,
+        "y": -11,
+        "z": 290
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -503,
+        "y": -11,
+        "z": 290
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -151,
+        "y": 58,
+        "z": 137
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -121,
+        "y": -7,
+        "z": 115
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -121,
+        "y": -7,
+        "z": 116
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -121,
+        "y": -10,
+        "z": 155
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -120,
+        "y": -10,
+        "z": 154
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -102,
+        "y": 20,
+        "z": 139
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -101,
+        "y": 20,
+        "z": 142
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -1,
+        "y": 24,
+        "z": 176
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": 12,
+        "y": -2,
+        "z": -394
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": 12,
+        "y": 24,
+        "z": -361
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": 9,
+        "y": 24,
+        "z": -365
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": 19,
+        "y": -11,
+        "z": -222
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": 46,
+        "y": -50,
+        "z": -402
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": 43,
+        "y": -50,
+        "z": -406
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": 77,
+        "y": -4,
+        "z": -189
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": 77,
+        "y": -4,
+        "z": -191
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": 124,
+        "y": 50,
+        "z": -237
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": 229,
+        "y": 3,
+        "z": -198
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": 225,
+        "y": 3,
+        "z": -203
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": 262,
+        "y": 3,
+        "z": -185
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": 266,
+        "y": 3,
+        "z": -182
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": 313,
+        "y": 5,
+        "z": -231
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": 315,
+        "y": 3,
+        "z": -239
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": 316,
+        "y": 5,
+        "z": -227
       }
     ]
   },
-  "Chests__with_contents_2cb7_c673": {
+  "Chests__empty_a341_e7a0": {
+    "created": false,
+    "name": "Chests (empty)",
+    "raw": []
+  },
+  "Chests__with_contents_5cb7_2a1d": {
     "created": false,
     "name": "Chests (with contents)",
     "raw": [
@@ -2741,5 +2737,37 @@ var markersDB={
         "z": -144
       }
     ]
+  },
+  "Chests__with_contents_5cb7_aa9e": {
+    "created": false,
+    "name": "Chests (with contents)",
+    "raw": [
+      {
+        "hovertext": "Chest with 15 items. \n           <p>Slot 0: minecraft:torch - 4</p><p>Slot 4: minecraft:oak_planks - 64</p><p>Slot 12: minecraft:gunpowder - 64</p><p>Slot 13: minecraft:gunpowder - 64</p><p>Slot 14: minecraft:stone - 2</p><p>Slot 15: minecraft:gunpowder - 64</p><p>Slot 16: minecraft:gunpowder - 64</p><p>Slot 17: minecraft:gunpowder - 64</p><p>Slot 18: minecraft:gunpowder - 64</p><p>Slot 19: minecraft:gunpowder - 64</p><p>Slot 20: minecraft:tnt - 3</p><p>Slot 23: minecraft:gunpowder - 64</p><p>Slot 24: minecraft:sand - 3</p><p>Slot 25: minecraft:spruce_planks - 2</p><p>Slot 26: minecraft:soul_sand - 1</p>\n            ",
+        "text": "Chest with 15 items. \n           <p>Slot 0: minecraft:torch - 4</p><p>Slot 4: minecraft:oak_planks - 64</p><p>Slot 12: minecraft:gunpowder - 64</p><p>Slot 13: minecraft:gunpowder - 64</p><p>Slot 14: minecraft:stone - 2</p><p>Slot 15: minecraft:gunpowder - 64</p><p>Slot 16: minecraft:gunpowder - 64</p><p>Slot 17: minecraft:gunpowder - 64</p><p>Slot 18: minecraft:gunpowder - 64</p><p>Slot 19: minecraft:gunpowder - 64</p><p>Slot 20: minecraft:tnt - 3</p><p>Slot 23: minecraft:gunpowder - 64</p><p>Slot 24: minecraft:sand - 3</p><p>Slot 25: minecraft:spruce_planks - 2</p><p>Slot 26: minecraft:soul_sand - 1</p>\n            ",
+        "x": -710,
+        "y": 29,
+        "z": 246
+      },
+      {
+        "hovertext": "Chest with 20 items. \n           <p>Slot 0: minecraft:oak_planks - 2</p><p>Slot 2: minecraft:granite - 6</p><p>Slot 3: minecraft:gunpowder - 49</p><p>Slot 4: minecraft:oak_boat - 1</p><p>Slot 5: minecraft:sugar_cane - 4</p><p>Slot 6: minecraft:apple - 1</p><p>Slot 7: minecraft:bucket - 2</p><p>Slot 8: minecraft:wheat - 1</p><p>Slot 9: minecraft:lapis_lazuli - 7</p><p>Slot 10: minecraft:hay_block - 16</p><p>Slot 11: minecraft:oak_sign - 7</p><p>Slot 13: minecraft:flint - 4</p><p>Slot 14: minecraft:stick - 16</p><p>Slot 15: minecraft:black_dye - 1</p><p>Slot 17: minecraft:iron_ingot - 4</p><p>Slot 18: minecraft:stone_sword - 1</p><p>Slot 19: minecraft:oak_sapling - 12</p><p>Slot 20: minecraft:oak_log - 27</p><p>Slot 21: minecraft:hopper - 1</p><p>Slot 22: minecraft:copper_ingot - 14</p>\n            ",
+        "text": "Chest with 20 items. \n           <p>Slot 0: minecraft:oak_planks - 2</p><p>Slot 2: minecraft:granite - 6</p><p>Slot 3: minecraft:gunpowder - 49</p><p>Slot 4: minecraft:oak_boat - 1</p><p>Slot 5: minecraft:sugar_cane - 4</p><p>Slot 6: minecraft:apple - 1</p><p>Slot 7: minecraft:bucket - 2</p><p>Slot 8: minecraft:wheat - 1</p><p>Slot 9: minecraft:lapis_lazuli - 7</p><p>Slot 10: minecraft:hay_block - 16</p><p>Slot 11: minecraft:oak_sign - 7</p><p>Slot 13: minecraft:flint - 4</p><p>Slot 14: minecraft:stick - 16</p><p>Slot 15: minecraft:black_dye - 1</p><p>Slot 17: minecraft:iron_ingot - 4</p><p>Slot 18: minecraft:stone_sword - 1</p><p>Slot 19: minecraft:oak_sapling - 12</p><p>Slot 20: minecraft:oak_log - 27</p><p>Slot 21: minecraft:hopper - 1</p><p>Slot 22: minecraft:copper_ingot - 14</p>\n            ",
+        "x": -710,
+        "y": 29,
+        "z": 245
+      },
+      {
+        "hovertext": "Chest with 1 items. \n           <p>Slot 0: minecraft:cobblestone - 4</p>\n            ",
+        "text": "Chest with 1 items. \n           <p>Slot 0: minecraft:cobblestone - 4</p>\n            ",
+        "x": -686,
+        "y": 25,
+        "z": 247
+      }
+    ]
+  },
+  "Chests__with_contents_5cb7_e7a0": {
+    "created": false,
+    "name": "Chests (with contents)",
+    "raw": []
   }
 };

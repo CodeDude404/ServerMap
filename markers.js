@@ -4,16 +4,16 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Chests (with contents)",
-      "groupName": "Chests__with_contents_2cb7_c673",
-      "icon": "markers/marker_town.png",
+      "groupName": "Chests__with_contents_5cb7_2a1d",
+      "icon": "markers/chest.png",
       "showIconInLegend": false
     },
     {
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Chests (empty)",
-      "groupName": "Chests__empty_d341_c673",
-      "icon": "markers/marker_town.png",
+      "groupName": "Chests__empty_a341_2a1d",
+      "icon": "markers/chest.png",
       "showIconInLegend": false
     }
   ],
@@ -22,16 +22,16 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Chests (with contents)",
-      "groupName": "Chests__with_contents_2cb7_b546",
-      "icon": "markers/marker_town.png",
+      "groupName": "Chests__with_contents_5cb7_e7a0",
+      "icon": "markers/chest.png",
       "showIconInLegend": false
     },
     {
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Chests (empty)",
-      "groupName": "Chests__empty_d341_b546",
-      "icon": "markers/marker_town.png",
+      "groupName": "Chests__empty_a341_e7a0",
+      "icon": "markers/chest.png",
       "showIconInLegend": false
     }
   ],
@@ -40,16 +40,16 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Chests (with contents)",
-      "groupName": "Chests__with_contents_2cb7_c3ba",
-      "icon": "markers/marker_town.png",
+      "groupName": "Chests__with_contents_5cb7_aa9e",
+      "icon": "markers/chest.png",
       "showIconInLegend": false
     },
     {
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Chests (empty)",
-      "groupName": "Chests__empty_d341_c3ba",
-      "icon": "markers/marker_town.png",
+      "groupName": "Chests__empty_a341_aa9e",
+      "icon": "markers/chest.png",
       "showIconInLegend": false
     }
   ]
