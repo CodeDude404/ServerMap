@@ -29,7 +29,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1664239024",
+        "cacheTag": "1664242515",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -43,11 +43,11 @@ var overviewerConfig = {
     },
     "tilesets": [
         {
-            "name": "Anarchy",
+            "name": "Anarchy Day",
             "zoomLevels": 7,
             "defaultZoom": 1,
             "maxZoom": 7,
-            "path": "anarchy",
+            "path": "anarchyday",
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "anarchy - overworld",
@@ -63,11 +63,31 @@ var overviewerConfig = {
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
-            "spawn": [
+            "spawn": false,
+            "north_direction": 0
+        },
+        {
+            "name": "Anarchy Night",
+            "zoomLevels": 7,
+            "defaultZoom": 1,
+            "maxZoom": 7,
+            "path": "anarchynight",
+            "base": "",
+            "bgcolor": "#1a1a1a",
+            "world": "anarchy - overworld",
+            "last_rendertime": 1664236689,
+            "imgextension": "png",
+            "isOverlay": false,
+            "poititle": "Markers",
+            "showlocationmarker": true,
+            "center": [
                 0,
                 128,
                 0
             ],
+            "lastrenderversion": 2,
+            "minZoom": 0,
+            "spawn": false,
             "north_direction": 0
         },
         {
@@ -91,11 +111,7 @@ var overviewerConfig = {
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
-            "spawn": [
-                0,
-                208,
-                32
-            ],
+            "spawn": false,
             "north_direction": 0
         },
         {
@@ -119,11 +135,7 @@ var overviewerConfig = {
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
-            "spawn": [
-                -739,
-                97,
-                235
-            ],
+            "spawn": false,
             "north_direction": 0
         }
     ]
