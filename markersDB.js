@@ -1,5 +1,10 @@
 var markersDB={
-  "Chests__empty_a341_2a1d": {
+  "Chests__empty_930e_0d69": {
+    "created": false,
+    "name": "Chests (empty)",
+    "raw": []
+  },
+  "Chests__empty_930e_0f7f": {
     "created": false,
     "name": "Chests (empty)",
     "raw": [
@@ -1958,7 +1963,7 @@ var markersDB={
       }
     ]
   },
-  "Chests__empty_a341_aa9e": {
+  "Chests__empty_930e_bab7": {
     "created": false,
     "name": "Chests (empty)",
     "raw": [
@@ -2007,6 +2012,27 @@ var markersDB={
       {
         "hovertext": "Empty chest.",
         "text": "Empty chest.",
+        "x": -1130,
+        "y": -34,
+        "z": -65
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -1133,
+        "y": -34,
+        "z": -66
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -1016,
+        "y": -21,
+        "z": -72
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
         "x": -855,
         "y": -29,
         "z": -27
@@ -2024,6 +2050,83 @@ var markersDB={
         "x": -720,
         "y": 25,
         "z": -111
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -1149,
+        "y": 40,
+        "z": 165
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -1146,
+        "y": 40,
+        "z": 168
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -1089,
+        "y": 45,
+        "z": 248
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -1089,
+        "y": 45,
+        "z": 247
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -1081,
+        "y": -9,
+        "z": 165
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -1083,
+        "y": 17,
+        "z": 301
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -1045,
+        "y": 51,
+        "z": 29
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -1044,
+        "y": 51,
+        "z": 29
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -1038,
+        "y": 75,
+        "z": 13
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -1036,
+        "y": -11,
+        "z": 119
+      },
+      {
+        "hovertext": "Empty chest.",
+        "text": "Empty chest.",
+        "x": -1039,
+        "y": -27,
+        "z": 437
       },
       {
         "hovertext": "Empty chest.",
@@ -2622,12 +2725,12 @@ var markersDB={
       }
     ]
   },
-  "Chests__empty_a341_e7a0": {
+  "Chests__with_contents_6cea_0d69": {
     "created": false,
-    "name": "Chests (empty)",
+    "name": "Chests (with contents)",
     "raw": []
   },
-  "Chests__with_contents_5cb7_2a1d": {
+  "Chests__with_contents_6cea_0f7f": {
     "created": false,
     "name": "Chests (with contents)",
     "raw": [
@@ -2681,18 +2784,18 @@ var markersDB={
         "z": -398
       },
       {
-        "hovertext": "Chest with 27 items. \n           <p>Slot 0: minecraft:lapis_lazuli - 64</p><p>Slot 1: minecraft:lapis_lazuli - 64</p><p>Slot 2: minecraft:lapis_lazuli - 64</p><p>Slot 3: minecraft:bread - 1</p><p>Slot 4: minecraft:mossy_cobblestone - 1</p><p>Slot 5: minecraft:enchanted_book - 1</p><p>Slot 6: minecraft:enchanted_book - 1</p><p>Slot 7: minecraft:enchanted_book - 1</p><p>Slot 8: minecraft:bookshelf - 19</p><p>Slot 9: minecraft:dirt - 5</p><p>Slot 10: minecraft:lapis_lazuli - 64</p><p>Slot 11: minecraft:book - 40</p><p>Slot 12: minecraft:lapis_lazuli - 64</p><p>Slot 13: minecraft:beetroot_seeds - 4</p><p>Slot 14: minecraft:chest - 60</p><p>Slot 15: minecraft:crafting_table - 1</p><p>Slot 16: minecraft:enchanted_book - 1</p><p>Slot 17: minecraft:name_tag - 1</p><p>Slot 18: minecraft:enchanted_book - 1</p><p>Slot 19: minecraft:enchanted_book - 1</p><p>Slot 20: minecraft:enchanted_book - 1</p><p>Slot 21: minecraft:enchanted_book - 1</p><p>Slot 22: minecraft:lapis_lazuli - 64</p><p>Slot 23: minecraft:lapis_lazuli - 57</p><p>Slot 24: minecraft:stick - 5</p><p>Slot 25: minecraft:bone - 12</p><p>Slot 26: minecraft:coal - 3</p>\n            ",
-        "text": "Chest with 27 items. \n           <p>Slot 0: minecraft:lapis_lazuli - 64</p><p>Slot 1: minecraft:lapis_lazuli - 64</p><p>Slot 2: minecraft:lapis_lazuli - 64</p><p>Slot 3: minecraft:bread - 1</p><p>Slot 4: minecraft:mossy_cobblestone - 1</p><p>Slot 5: minecraft:enchanted_book - 1</p><p>Slot 6: minecraft:enchanted_book - 1</p><p>Slot 7: minecraft:enchanted_book - 1</p><p>Slot 8: minecraft:bookshelf - 19</p><p>Slot 9: minecraft:dirt - 5</p><p>Slot 10: minecraft:lapis_lazuli - 64</p><p>Slot 11: minecraft:book - 40</p><p>Slot 12: minecraft:lapis_lazuli - 64</p><p>Slot 13: minecraft:beetroot_seeds - 4</p><p>Slot 14: minecraft:chest - 60</p><p>Slot 15: minecraft:crafting_table - 1</p><p>Slot 16: minecraft:enchanted_book - 1</p><p>Slot 17: minecraft:name_tag - 1</p><p>Slot 18: minecraft:enchanted_book - 1</p><p>Slot 19: minecraft:enchanted_book - 1</p><p>Slot 20: minecraft:enchanted_book - 1</p><p>Slot 21: minecraft:enchanted_book - 1</p><p>Slot 22: minecraft:lapis_lazuli - 64</p><p>Slot 23: minecraft:lapis_lazuli - 57</p><p>Slot 24: minecraft:stick - 5</p><p>Slot 25: minecraft:bone - 12</p><p>Slot 26: minecraft:coal - 3</p>\n            ",
-        "x": 35,
-        "y": 74,
-        "z": -399
+        "hovertext": "Chest with 20 items. \n           <p>Slot 2: minecraft:black_shulker_box - 1</p><p>Slot 3: minecraft:black_shulker_box - 1</p><p>Slot 4: minecraft:black_shulker_box - 1</p><p>Slot 5: minecraft:black_shulker_box - 1</p><p>Slot 6: minecraft:black_shulker_box - 1</p><p>Slot 7: minecraft:black_shulker_box - 1</p><p>Slot 8: minecraft:black_shulker_box - 1</p><p>Slot 12: minecraft:end_crystal - 64</p><p>Slot 13: minecraft:totem_of_undying - 1</p><p>Slot 14: minecraft:totem_of_undying - 1</p><p>Slot 15: minecraft:totem_of_undying - 1</p><p>Slot 16: minecraft:totem_of_undying - 1</p><p>Slot 17: minecraft:totem_of_undying - 1</p><p>Slot 20: minecraft:enchanted_book - 1</p><p>Slot 21: minecraft:enchanted_book - 1</p><p>Slot 22: minecraft:enchanted_golden_apple - 64</p><p>Slot 23: minecraft:flint_and_steel - 22</p><p>Slot 24: minecraft:flint_and_steel - 3</p><p>Slot 25: minecraft:enchanted_book - 1</p><p>Slot 26: minecraft:lapis_lazuli - 64</p>\n            ",
+        "text": "Chest with 20 items. \n           <p>Slot 2: minecraft:black_shulker_box - 1</p><p>Slot 3: minecraft:black_shulker_box - 1</p><p>Slot 4: minecraft:black_shulker_box - 1</p><p>Slot 5: minecraft:black_shulker_box - 1</p><p>Slot 6: minecraft:black_shulker_box - 1</p><p>Slot 7: minecraft:black_shulker_box - 1</p><p>Slot 8: minecraft:black_shulker_box - 1</p><p>Slot 12: minecraft:end_crystal - 64</p><p>Slot 13: minecraft:totem_of_undying - 1</p><p>Slot 14: minecraft:totem_of_undying - 1</p><p>Slot 15: minecraft:totem_of_undying - 1</p><p>Slot 16: minecraft:totem_of_undying - 1</p><p>Slot 17: minecraft:totem_of_undying - 1</p><p>Slot 20: minecraft:enchanted_book - 1</p><p>Slot 21: minecraft:enchanted_book - 1</p><p>Slot 22: minecraft:enchanted_golden_apple - 64</p><p>Slot 23: minecraft:flint_and_steel - 22</p><p>Slot 24: minecraft:flint_and_steel - 3</p><p>Slot 25: minecraft:enchanted_book - 1</p><p>Slot 26: minecraft:lapis_lazuli - 64</p>\n            ",
+        "x": 37,
+        "y": 75,
+        "z": -400
       },
       {
-        "hovertext": "Chest with 27 items. \n           <p>Slot 0: minecraft:ender_chest - 63</p><p>Slot 1: minecraft:end_crystal - 64</p><p>Slot 2: minecraft:enchanted_golden_apple - 64</p><p>Slot 3: minecraft:end_crystal - 64</p><p>Slot 4: minecraft:yellow_shulker_box - 1</p><p>Slot 5: minecraft:totem_of_undying - 1</p><p>Slot 6: minecraft:totem_of_undying - 1</p><p>Slot 7: minecraft:end_crystal - 64</p><p>Slot 8: minecraft:totem_of_undying - 1</p><p>Slot 9: minecraft:totem_of_undying - 1</p><p>Slot 10: minecraft:yellow_shulker_box - 1</p><p>Slot 11: minecraft:totem_of_undying - 1</p><p>Slot 12: minecraft:totem_of_undying - 1</p><p>Slot 13: minecraft:yellow_shulker_box - 1</p><p>Slot 14: minecraft:enchanted_golden_apple - 64</p><p>Slot 15: minecraft:totem_of_undying - 1</p><p>Slot 16: minecraft:totem_of_undying - 1</p><p>Slot 17: minecraft:totem_of_undying - 1</p><p>Slot 18: minecraft:totem_of_undying - 1</p><p>Slot 19: minecraft:enchanted_golden_apple - 64</p><p>Slot 20: minecraft:end_crystal - 64</p><p>Slot 21: minecraft:end_crystal - 64</p><p>Slot 22: minecraft:end_crystal - 39</p><p>Slot 23: minecraft:totem_of_undying - 1</p><p>Slot 24: minecraft:enchanted_golden_apple - 64</p><p>Slot 25: minecraft:chest - 6</p><p>Slot 26: minecraft:flint_and_steel - 52</p>\n            ",
-        "text": "Chest with 27 items. \n           <p>Slot 0: minecraft:ender_chest - 63</p><p>Slot 1: minecraft:end_crystal - 64</p><p>Slot 2: minecraft:enchanted_golden_apple - 64</p><p>Slot 3: minecraft:end_crystal - 64</p><p>Slot 4: minecraft:yellow_shulker_box - 1</p><p>Slot 5: minecraft:totem_of_undying - 1</p><p>Slot 6: minecraft:totem_of_undying - 1</p><p>Slot 7: minecraft:end_crystal - 64</p><p>Slot 8: minecraft:totem_of_undying - 1</p><p>Slot 9: minecraft:totem_of_undying - 1</p><p>Slot 10: minecraft:yellow_shulker_box - 1</p><p>Slot 11: minecraft:totem_of_undying - 1</p><p>Slot 12: minecraft:totem_of_undying - 1</p><p>Slot 13: minecraft:yellow_shulker_box - 1</p><p>Slot 14: minecraft:enchanted_golden_apple - 64</p><p>Slot 15: minecraft:totem_of_undying - 1</p><p>Slot 16: minecraft:totem_of_undying - 1</p><p>Slot 17: minecraft:totem_of_undying - 1</p><p>Slot 18: minecraft:totem_of_undying - 1</p><p>Slot 19: minecraft:enchanted_golden_apple - 64</p><p>Slot 20: minecraft:end_crystal - 64</p><p>Slot 21: minecraft:end_crystal - 64</p><p>Slot 22: minecraft:end_crystal - 39</p><p>Slot 23: minecraft:totem_of_undying - 1</p><p>Slot 24: minecraft:enchanted_golden_apple - 64</p><p>Slot 25: minecraft:chest - 6</p><p>Slot 26: minecraft:flint_and_steel - 52</p>\n            ",
-        "x": 36,
-        "y": 74,
-        "z": -399
+        "hovertext": "Chest with 26 items. \n           <p>Slot 0: minecraft:enchanted_golden_apple - 64</p><p>Slot 1: minecraft:lapis_lazuli - 64</p><p>Slot 2: minecraft:lapis_lazuli - 64</p><p>Slot 3: minecraft:lapis_lazuli - 64</p><p>Slot 4: minecraft:lapis_lazuli - 64</p><p>Slot 5: minecraft:yellow_shulker_box - 1</p><p>Slot 6: minecraft:lapis_lazuli - 64</p><p>Slot 7: minecraft:lapis_lazuli - 64</p><p>Slot 8: minecraft:lapis_lazuli - 64</p><p>Slot 9: minecraft:lapis_lazuli - 64</p><p>Slot 10: minecraft:lapis_lazuli - 64</p><p>Slot 11: minecraft:lapis_lazuli - 64</p><p>Slot 12: minecraft:end_crystal - 64</p><p>Slot 13: minecraft:enchanted_golden_apple - 6</p><p>Slot 14: minecraft:totem_of_undying - 1</p><p>Slot 15: minecraft:totem_of_undying - 1</p><p>Slot 16: minecraft:enchanted_book - 1</p><p>Slot 17: minecraft:black_shulker_box - 1</p><p>Slot 19: minecraft:damaged_anvil - 1</p><p>Slot 20: minecraft:dirt - 55</p><p>Slot 21: minecraft:totem_of_undying - 1</p><p>Slot 22: minecraft:flint_and_steel - 27</p><p>Slot 23: minecraft:stick - 5</p><p>Slot 24: minecraft:enchanted_book - 1</p><p>Slot 25: minecraft:enchanted_book - 1</p><p>Slot 26: minecraft:lapis_lazuli - 64</p>\n            ",
+        "text": "Chest with 26 items. \n           <p>Slot 0: minecraft:enchanted_golden_apple - 64</p><p>Slot 1: minecraft:lapis_lazuli - 64</p><p>Slot 2: minecraft:lapis_lazuli - 64</p><p>Slot 3: minecraft:lapis_lazuli - 64</p><p>Slot 4: minecraft:lapis_lazuli - 64</p><p>Slot 5: minecraft:yellow_shulker_box - 1</p><p>Slot 6: minecraft:lapis_lazuli - 64</p><p>Slot 7: minecraft:lapis_lazuli - 64</p><p>Slot 8: minecraft:lapis_lazuli - 64</p><p>Slot 9: minecraft:lapis_lazuli - 64</p><p>Slot 10: minecraft:lapis_lazuli - 64</p><p>Slot 11: minecraft:lapis_lazuli - 64</p><p>Slot 12: minecraft:end_crystal - 64</p><p>Slot 13: minecraft:enchanted_golden_apple - 6</p><p>Slot 14: minecraft:totem_of_undying - 1</p><p>Slot 15: minecraft:totem_of_undying - 1</p><p>Slot 16: minecraft:enchanted_book - 1</p><p>Slot 17: minecraft:black_shulker_box - 1</p><p>Slot 19: minecraft:damaged_anvil - 1</p><p>Slot 20: minecraft:dirt - 55</p><p>Slot 21: minecraft:totem_of_undying - 1</p><p>Slot 22: minecraft:flint_and_steel - 27</p><p>Slot 23: minecraft:stick - 5</p><p>Slot 24: minecraft:enchanted_book - 1</p><p>Slot 25: minecraft:enchanted_book - 1</p><p>Slot 26: minecraft:lapis_lazuli - 64</p>\n            ",
+        "x": 38,
+        "y": 75,
+        "z": -400
       },
       {
         "hovertext": "Chest with 27 items. \n           <p>Slot 0: minecraft:lapis_lazuli - 64</p><p>Slot 1: minecraft:lapis_lazuli - 64</p><p>Slot 2: minecraft:lapis_lazuli - 64</p><p>Slot 3: minecraft:enchanted_book - 1</p><p>Slot 4: minecraft:enchanted_book - 1</p><p>Slot 5: minecraft:enchanted_book - 1</p><p>Slot 6: minecraft:enchanted_book - 1</p><p>Slot 7: minecraft:enchanted_book - 1</p><p>Slot 8: minecraft:saddle - 1</p><p>Slot 9: minecraft:dirt - 5</p><p>Slot 10: minecraft:lapis_lazuli - 64</p><p>Slot 11: minecraft:book - 40</p><p>Slot 12: minecraft:lapis_lazuli - 64</p><p>Slot 13: minecraft:cobblestone - 30</p><p>Slot 14: minecraft:birch_planks - 27</p><p>Slot 15: minecraft:andesite - 9</p><p>Slot 16: minecraft:enchanted_book - 1</p><p>Slot 17: minecraft:birch_boat - 1</p><p>Slot 18: minecraft:enchanted_book - 1</p><p>Slot 19: minecraft:enchanted_book - 1</p><p>Slot 20: minecraft:enchanted_book - 1</p><p>Slot 21: minecraft:enchanted_book - 1</p><p>Slot 22: minecraft:lapis_lazuli - 32</p><p>Slot 23: minecraft:lapis_lazuli - 64</p><p>Slot 24: minecraft:oak_sapling - 1</p><p>Slot 25: minecraft:torch - 24</p><p>Slot 26: minecraft:bucket - 1</p>\n            ",
@@ -2702,11 +2805,18 @@ var markersDB={
         "z": -399
       },
       {
-        "hovertext": "Chest with 27 items. \n           <p>Slot 0: minecraft:enchanted_book - 1</p><p>Slot 1: minecraft:enchanted_book - 1</p><p>Slot 2: minecraft:enchanted_book - 1</p><p>Slot 3: minecraft:black_shulker_box - 1</p><p>Slot 4: minecraft:black_shulker_box - 1</p><p>Slot 5: minecraft:black_shulker_box - 1</p><p>Slot 6: minecraft:black_shulker_box - 1</p><p>Slot 7: minecraft:black_shulker_box - 1</p><p>Slot 8: minecraft:black_shulker_box - 1</p><p>Slot 9: minecraft:black_shulker_box - 1</p><p>Slot 10: minecraft:black_shulker_box - 1</p><p>Slot 11: minecraft:black_shulker_box - 1</p><p>Slot 12: minecraft:black_shulker_box - 1</p><p>Slot 13: minecraft:black_shulker_box - 1</p><p>Slot 14: minecraft:lapis_lazuli - 64</p><p>Slot 15: minecraft:lapis_lazuli - 64</p><p>Slot 16: minecraft:lapis_lazuli - 64</p><p>Slot 17: minecraft:lapis_lazuli - 64</p><p>Slot 18: minecraft:lapis_lazuli - 64</p><p>Slot 19: minecraft:lapis_lazuli - 64</p><p>Slot 20: minecraft:lapis_lazuli - 64</p><p>Slot 21: minecraft:enchanted_book - 1</p><p>Slot 22: minecraft:enchanted_book - 1</p><p>Slot 23: minecraft:lapis_lazuli - 64</p><p>Slot 24: minecraft:lapis_lazuli - 64</p><p>Slot 25: minecraft:lapis_lazuli - 64</p><p>Slot 26: minecraft:lapis_lazuli - 64</p>\n            ",
-        "text": "Chest with 27 items. \n           <p>Slot 0: minecraft:enchanted_book - 1</p><p>Slot 1: minecraft:enchanted_book - 1</p><p>Slot 2: minecraft:enchanted_book - 1</p><p>Slot 3: minecraft:black_shulker_box - 1</p><p>Slot 4: minecraft:black_shulker_box - 1</p><p>Slot 5: minecraft:black_shulker_box - 1</p><p>Slot 6: minecraft:black_shulker_box - 1</p><p>Slot 7: minecraft:black_shulker_box - 1</p><p>Slot 8: minecraft:black_shulker_box - 1</p><p>Slot 9: minecraft:black_shulker_box - 1</p><p>Slot 10: minecraft:black_shulker_box - 1</p><p>Slot 11: minecraft:black_shulker_box - 1</p><p>Slot 12: minecraft:black_shulker_box - 1</p><p>Slot 13: minecraft:black_shulker_box - 1</p><p>Slot 14: minecraft:lapis_lazuli - 64</p><p>Slot 15: minecraft:lapis_lazuli - 64</p><p>Slot 16: minecraft:lapis_lazuli - 64</p><p>Slot 17: minecraft:lapis_lazuli - 64</p><p>Slot 18: minecraft:lapis_lazuli - 64</p><p>Slot 19: minecraft:lapis_lazuli - 64</p><p>Slot 20: minecraft:lapis_lazuli - 64</p><p>Slot 21: minecraft:enchanted_book - 1</p><p>Slot 22: minecraft:enchanted_book - 1</p><p>Slot 23: minecraft:lapis_lazuli - 64</p><p>Slot 24: minecraft:lapis_lazuli - 64</p><p>Slot 25: minecraft:lapis_lazuli - 64</p><p>Slot 26: minecraft:lapis_lazuli - 64</p>\n            ",
-        "x": 34,
-        "y": 74,
-        "z": -399
+        "hovertext": "Chest with 27 items. \n           <p>Slot 0: minecraft:enchanted_golden_apple - 64</p><p>Slot 1: minecraft:lapis_lazuli - 64</p><p>Slot 2: minecraft:lapis_lazuli - 64</p><p>Slot 3: minecraft:lapis_lazuli - 64</p><p>Slot 4: minecraft:lapis_lazuli - 64</p><p>Slot 5: minecraft:yellow_shulker_box - 1</p><p>Slot 6: minecraft:lapis_lazuli - 64</p><p>Slot 7: minecraft:lapis_lazuli - 64</p><p>Slot 8: minecraft:lapis_lazuli - 64</p><p>Slot 9: minecraft:lapis_lazuli - 64</p><p>Slot 10: minecraft:lapis_lazuli - 64</p><p>Slot 11: minecraft:lapis_lazuli - 64</p><p>Slot 12: minecraft:end_crystal - 64</p><p>Slot 13: minecraft:enchanted_golden_apple - 6</p><p>Slot 14: minecraft:totem_of_undying - 1</p><p>Slot 15: minecraft:totem_of_undying - 1</p><p>Slot 16: minecraft:enchanted_book - 1</p><p>Slot 17: minecraft:black_shulker_box - 1</p><p>Slot 18: minecraft:enchanted_book - 1</p><p>Slot 19: minecraft:damaged_anvil - 1</p><p>Slot 20: minecraft:dirt - 55</p><p>Slot 21: minecraft:totem_of_undying - 1</p><p>Slot 22: minecraft:flint_and_steel - 27</p><p>Slot 23: minecraft:stick - 5</p><p>Slot 24: minecraft:enchanted_book - 1</p><p>Slot 25: minecraft:enchanted_book - 1</p><p>Slot 26: minecraft:lapis_lazuli - 64</p>\n            ",
+        "text": "Chest with 27 items. \n           <p>Slot 0: minecraft:enchanted_golden_apple - 64</p><p>Slot 1: minecraft:lapis_lazuli - 64</p><p>Slot 2: minecraft:lapis_lazuli - 64</p><p>Slot 3: minecraft:lapis_lazuli - 64</p><p>Slot 4: minecraft:lapis_lazuli - 64</p><p>Slot 5: minecraft:yellow_shulker_box - 1</p><p>Slot 6: minecraft:lapis_lazuli - 64</p><p>Slot 7: minecraft:lapis_lazuli - 64</p><p>Slot 8: minecraft:lapis_lazuli - 64</p><p>Slot 9: minecraft:lapis_lazuli - 64</p><p>Slot 10: minecraft:lapis_lazuli - 64</p><p>Slot 11: minecraft:lapis_lazuli - 64</p><p>Slot 12: minecraft:end_crystal - 64</p><p>Slot 13: minecraft:enchanted_golden_apple - 6</p><p>Slot 14: minecraft:totem_of_undying - 1</p><p>Slot 15: minecraft:totem_of_undying - 1</p><p>Slot 16: minecraft:enchanted_book - 1</p><p>Slot 17: minecraft:black_shulker_box - 1</p><p>Slot 18: minecraft:enchanted_book - 1</p><p>Slot 19: minecraft:damaged_anvil - 1</p><p>Slot 20: minecraft:dirt - 55</p><p>Slot 21: minecraft:totem_of_undying - 1</p><p>Slot 22: minecraft:flint_and_steel - 27</p><p>Slot 23: minecraft:stick - 5</p><p>Slot 24: minecraft:enchanted_book - 1</p><p>Slot 25: minecraft:enchanted_book - 1</p><p>Slot 26: minecraft:lapis_lazuli - 64</p>\n            ",
+        "x": 38,
+        "y": 78,
+        "z": -400
+      },
+      {
+        "hovertext": "Chest with 20 items. \n           <p>Slot 0: minecraft:bread - 1</p><p>Slot 3: minecraft:lapis_lazuli - 64</p><p>Slot 4: minecraft:lapis_lazuli - 64</p><p>Slot 5: minecraft:mossy_cobblestone - 1</p><p>Slot 7: minecraft:lapis_lazuli - 64</p><p>Slot 8: minecraft:chest - 64</p><p>Slot 9: minecraft:bone - 12</p><p>Slot 10: minecraft:lapis_lazuli - 64</p><p>Slot 13: minecraft:lapis_lazuli - 64</p><p>Slot 14: minecraft:lapis_lazuli - 57</p><p>Slot 15: minecraft:end_crystal - 64</p><p>Slot 16: minecraft:end_crystal - 64</p><p>Slot 17: minecraft:totem_of_undying - 1</p><p>Slot 18: minecraft:chest - 64</p><p>Slot 19: minecraft:bookshelf - 19</p><p>Slot 20: minecraft:book - 40</p><p>Slot 21: minecraft:coal - 3</p><p>Slot 22: minecraft:beetroot_seeds - 4</p><p>Slot 23: minecraft:crafting_table - 1</p><p>Slot 24: minecraft:name_tag - 1</p>\n            ",
+        "text": "Chest with 20 items. \n           <p>Slot 0: minecraft:bread - 1</p><p>Slot 3: minecraft:lapis_lazuli - 64</p><p>Slot 4: minecraft:lapis_lazuli - 64</p><p>Slot 5: minecraft:mossy_cobblestone - 1</p><p>Slot 7: minecraft:lapis_lazuli - 64</p><p>Slot 8: minecraft:chest - 64</p><p>Slot 9: minecraft:bone - 12</p><p>Slot 10: minecraft:lapis_lazuli - 64</p><p>Slot 13: minecraft:lapis_lazuli - 64</p><p>Slot 14: minecraft:lapis_lazuli - 57</p><p>Slot 15: minecraft:end_crystal - 64</p><p>Slot 16: minecraft:end_crystal - 64</p><p>Slot 17: minecraft:totem_of_undying - 1</p><p>Slot 18: minecraft:chest - 64</p><p>Slot 19: minecraft:bookshelf - 19</p><p>Slot 20: minecraft:book - 40</p><p>Slot 21: minecraft:coal - 3</p><p>Slot 22: minecraft:beetroot_seeds - 4</p><p>Slot 23: minecraft:crafting_table - 1</p><p>Slot 24: minecraft:name_tag - 1</p>\n            ",
+        "x": 35,
+        "y": 75,
+        "z": -400
       },
       {
         "hovertext": "Chest with 9 items. \n           <p>Slot 0: minecraft:enchanted_golden_apple - 63</p><p>Slot 1: minecraft:diamond_leggings - 1</p><p>Slot 2: minecraft:diamond_chestplate - 1</p><p>Slot 3: minecraft:diamond_helmet - 1</p><p>Slot 4: minecraft:diamond_boots - 1</p><p>Slot 5: minecraft:totem_of_undying - 1</p><p>Slot 6: minecraft:diamond_sword - 1</p><p>Slot 7: minecraft:diamond_pickaxe - 1</p><p>Slot 8: minecraft:diamond_axe - 1</p>\n            ",
@@ -2716,11 +2826,11 @@ var markersDB={
         "z": -399
       },
       {
-        "hovertext": "Chest with 9 items. \n           <p>Slot 0: minecraft:enchanted_golden_apple - 63</p><p>Slot 1: minecraft:diamond_leggings - 1</p><p>Slot 2: minecraft:diamond_chestplate - 1</p><p>Slot 3: minecraft:diamond_helmet - 1</p><p>Slot 4: minecraft:diamond_boots - 1</p><p>Slot 5: minecraft:totem_of_undying - 1</p><p>Slot 6: minecraft:diamond_sword - 1</p><p>Slot 7: minecraft:diamond_pickaxe - 1</p><p>Slot 8: minecraft:diamond_axe - 1</p>\n            ",
-        "text": "Chest with 9 items. \n           <p>Slot 0: minecraft:enchanted_golden_apple - 63</p><p>Slot 1: minecraft:diamond_leggings - 1</p><p>Slot 2: minecraft:diamond_chestplate - 1</p><p>Slot 3: minecraft:diamond_helmet - 1</p><p>Slot 4: minecraft:diamond_boots - 1</p><p>Slot 5: minecraft:totem_of_undying - 1</p><p>Slot 6: minecraft:diamond_sword - 1</p><p>Slot 7: minecraft:diamond_pickaxe - 1</p><p>Slot 8: minecraft:diamond_axe - 1</p>\n            ",
-        "x": 37,
-        "y": 74,
-        "z": -399
+        "hovertext": "Chest with 2 items. \n           <p>Slot 1: minecraft:end_crystal - 39</p><p>Slot 3: minecraft:ender_chest - 63</p>\n            ",
+        "text": "Chest with 2 items. \n           <p>Slot 1: minecraft:end_crystal - 39</p><p>Slot 3: minecraft:ender_chest - 63</p>\n            ",
+        "x": 36,
+        "y": 75,
+        "z": -400
       },
       {
         "hovertext": "Chest with 18 items. \n           <p>Slot 9: minecraft:black_shulker_box - 1</p><p>Slot 10: minecraft:black_shulker_box - 1</p><p>Slot 11: minecraft:black_shulker_box - 1</p><p>Slot 12: minecraft:black_shulker_box - 1</p><p>Slot 13: minecraft:black_shulker_box - 1</p><p>Slot 14: minecraft:lapis_lazuli - 64</p><p>Slot 15: minecraft:lapis_lazuli - 64</p><p>Slot 16: minecraft:lapis_lazuli - 64</p><p>Slot 17: minecraft:lapis_lazuli - 64</p><p>Slot 18: minecraft:lapis_lazuli - 64</p><p>Slot 19: minecraft:lapis_lazuli - 64</p><p>Slot 20: minecraft:lapis_lazuli - 64</p><p>Slot 21: minecraft:lapis_lazuli - 64</p><p>Slot 22: minecraft:lapis_lazuli - 64</p><p>Slot 23: minecraft:lapis_lazuli - 64</p><p>Slot 24: minecraft:string - 8</p><p>Slot 25: minecraft:lapis_lazuli - 64</p><p>Slot 26: minecraft:lapis_lazuli - 64</p>\n            ",
@@ -2738,7 +2848,7 @@ var markersDB={
       }
     ]
   },
-  "Chests__with_contents_5cb7_aa9e": {
+  "Chests__with_contents_6cea_bab7": {
     "created": false,
     "name": "Chests (with contents)",
     "raw": [
@@ -2765,9 +2875,98 @@ var markersDB={
       }
     ]
   },
-  "Chests__with_contents_5cb7_e7a0": {
+  "Signs6cb7_0d69": {
     "created": false,
-    "name": "Chests (with contents)",
+    "name": "Signs",
     "raw": []
+  },
+  "Signs6cb7_0f7f": {
+    "created": false,
+    "name": "Signs",
+    "raw": [
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 47,
+        "y": 64,
+        "z": -741
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 49,
+        "y": 64,
+        "z": -741
+      }
+    ]
+  },
+  "Signs6cb7_bab7": {
+    "created": false,
+    "name": "Signs",
+    "raw": [
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -715,
+        "y": 1,
+        "z": 243
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -715,
+        "y": 0,
+        "z": 242
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -715,
+        "y": 1,
+        "z": 242
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -715,
+        "y": 2,
+        "z": 243
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -715,
+        "y": 0,
+        "z": 241
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -715,
+        "y": 2,
+        "z": 242
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -715,
+        "y": 1,
+        "z": 241
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -715,
+        "y": 2,
+        "z": 241
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -715,
+        "y": 0,
+        "z": 243
+      }
+    ]
   }
 };

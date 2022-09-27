@@ -4,7 +4,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Chests (with contents)",
-      "groupName": "Chests__with_contents_5cb7_2a1d",
+      "groupName": "Chests__with_contents_6cea_0f7f",
       "icon": "markers/chest.png",
       "showIconInLegend": false
     },
@@ -12,8 +12,16 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Chests (empty)",
-      "groupName": "Chests__empty_a341_2a1d",
+      "groupName": "Chests__empty_930e_0f7f",
       "icon": "markers/chest.png",
+      "showIconInLegend": false
+    },
+    {
+      "checked": false,
+      "createInfoWindow": true,
+      "displayName": "Signs",
+      "groupName": "Signs6cb7_0f7f",
+      "icon": "markers/sign.png",
       "showIconInLegend": false
     }
   ],
@@ -22,7 +30,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Chests (with contents)",
-      "groupName": "Chests__with_contents_5cb7_e7a0",
+      "groupName": "Chests__with_contents_6cea_0d69",
       "icon": "markers/chest.png",
       "showIconInLegend": false
     },
@@ -30,8 +38,16 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Chests (empty)",
-      "groupName": "Chests__empty_a341_e7a0",
+      "groupName": "Chests__empty_930e_0d69",
       "icon": "markers/chest.png",
+      "showIconInLegend": false
+    },
+    {
+      "checked": false,
+      "createInfoWindow": true,
+      "displayName": "Signs",
+      "groupName": "Signs6cb7_0d69",
+      "icon": "markers/sign.png",
       "showIconInLegend": false
     }
   ],
@@ -40,7 +56,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Chests (with contents)",
-      "groupName": "Chests__with_contents_5cb7_aa9e",
+      "groupName": "Chests__with_contents_6cea_bab7",
       "icon": "markers/chest.png",
       "showIconInLegend": false
     },
@@ -48,8 +64,16 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Chests (empty)",
-      "groupName": "Chests__empty_a341_aa9e",
+      "groupName": "Chests__empty_930e_bab7",
       "icon": "markers/chest.png",
+      "showIconInLegend": false
+    },
+    {
+      "checked": false,
+      "createInfoWindow": true,
+      "displayName": "Signs",
+      "groupName": "Signs6cb7_bab7",
+      "icon": "markers/sign.png",
       "showIconInLegend": false
     }
   ]
